@@ -1,7 +1,7 @@
 
 # Aman Khajuria's Portfolio 
 
-I am a computer science major at CSUF and I plan on graduating in 2028
+I am a computer science major at CSUF and I plan on graduating in 2028. Here is a link to my Github profile --> https://github.com/Amank1243
 
 ## Favorite CPSC 120L Labs
 
